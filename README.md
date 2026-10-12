@@ -1,11 +1,11 @@
-#### Hii, I'm menher 🪷
+#### Hii, I'm menher :shipit:
 
-- I am learning C++
-- A linux and android enthusiast 
-- My main goal is to make software that helps people
+- I'm currently learning C++
+- A Linux and Android enthusiast
+- I want to make software that helps people
 
 #### Projects
-~~todo when i have public projects im proud of~~
+[catgirl.diy](https://github.com/menher/catgirl.diy) — My website's source code
 
 #### Contact
-Discord: ```@menherr```
+Discord: `@menherr`
