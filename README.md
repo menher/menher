@@ -5,7 +5,9 @@
 - I want to make software that helps people
 
 #### Projects
-[catgirl.diy](https://github.com/menher/catgirl.diy) — My website's source code
+[catgirl.diy](https://github.com/menher/catgirl.diy) - My website's source code
+
+~~More projects soon~~
 
 #### Contact
 Discord: `@menherr`
